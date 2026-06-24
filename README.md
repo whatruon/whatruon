@@ -6,7 +6,7 @@ A passionate developer specializing in web scraping, data automation, and full-s
 
 - 💻 Passionate about building scalable web applications and automation tools
 - 🐍 Python enthusiast with expertise in scraping, data processing, and backend services
-- 🌐 Full-stack developer experienced with JavaScript/TypeScript, React, Node.js, and Vue
+- 🌐 Full-stack developer experienced with JavaScript/TypeScript, React, Node.js, and NextJS
 - 📊 Data enthusiast: love turning raw data into actionable insights
 - 🔧 Constantly learning and exploring new technologies
 
